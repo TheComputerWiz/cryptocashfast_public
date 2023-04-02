@@ -6,15 +6,14 @@ This is a public repository for cryptocashfast
 
 ℹ I am not finished yet ℹ
 
-> /backend
-> <br />
+#### /backend
+> 
 > /app
 >>/config
 >>> auth.config.js <br />
 >>> db.config.js 
 >>
 >>/controllers
->>
 >>>auth.controller.js<br />
 >>>ccf_payment.controller.js <br />
 >>>charges.controller.js <br />
@@ -29,7 +28,6 @@ This is a public repository for cryptocashfast
 >>>fulfillment_center.controller.js <br />
 >>
 >>/middlewares
->>
 >>>authJwt.js  <br />
 >>>index.js  <br />
 >>>verifySignUp.js  <br />
@@ -51,6 +49,11 @@ This is a public repository for cryptocashfast
 > package.json<br />
 > server.js<br />
 
-<br />
 
-> /frontend
+#### /frontend
+>
+> /node_modules
+> 
+> /public
+> 
+> /src
