@@ -1,13 +1,18 @@
 # cryptocashfast_public
 This is a public repository for cryptocashfast
 
-Currenct directory
-/backend
-  /app
-    /config
+### Currenct directory
+<details>
+ <summary>/backend</summary>
+  <details>
+    <summary>/app</summary>
+    <details>
+      <summary>/config</summary>
       auth.config.js
       db.config.js
-    /controllers
+    </details>
+    <details>
+      <summary>/controllers</summary>
       auth.controller.js
       ccf_payment.controller.js
       charges.controller.js
@@ -20,20 +25,38 @@ Currenct directory
       tremendous.controller.js
       user.controller.js
       fulfillment_center.controller.js
-    /middlewares
+    </details>
+    <details>
+      <summary>/middlewares</summary>
       authJwt.js
       index.js
       verifySignUp.js
       veryXAccess.js
-    /models
-    /routes
-    /utils
-  /node_modules
-  .env
-  .gcloudignore
-  app.yaml
-  gcloudignore
-  package-lock.json
-  package.json
-  server.js
-/frontend
+    </details>
+    <details>
+      <summary>/models</summary>
+    </details>
+    <details>
+      <summary>/routes</summary>
+    </details>
+    <details>
+      <summary>/utils</summary>
+    </details>
+  </details>
+ <details>
+   <summary>/node_modules</summary>
+ </details>
+ <p>
+   .env<br />
+  .gcloudignore<br />
+  app.yaml<br />
+  gcloudignore<br />
+  package-lock.json<br />
+  package.json<br />
+  server.js<br />
+ </p>
+</details>
+
+<details>
+ <summary>/frontend</summary>
+</details>
