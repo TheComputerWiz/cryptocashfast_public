@@ -26,7 +26,6 @@ Currenct directory
       verifySignUp.js
       veryXAccess.js
     /models
-    
     /routes
     /utils
   /node_modules
