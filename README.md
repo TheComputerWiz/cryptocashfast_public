@@ -11,30 +11,30 @@ This is a public repository for cryptocashfast
     <summary>/app</summary>
     <details>
       <summary>/config</summary>
-      auth.config.js
-      db.config.js
+      auth.config.js <br />
+      db.config.js <br />
     </details>
     <details>
       <summary>/controllers</summary>
-      auth.controller.js
-      ccf_payment.controller.js
-      charges.controller.js
-      checkout.controller.js
-      crypto.controller.js
-      invoice.controller.js
-      ipn.controller.js
-      notif.controller.js
-      order.controller.js
-      tremendous.controller.js
-      user.controller.js
-      fulfillment_center.controller.js
+      auth.controller.js <br />
+      ccf_payment.controller.js <br />
+      charges.controller.js <br />
+      checkout.controller.js <br />
+      crypto.controller.js <br />
+      invoice.controller.js <br />
+      ipn.controller.js <br />
+      notif.controller.js <br />
+      order.controller.js <br />
+      tremendous.controller.js <br />
+      user.controller.js <br />
+      fulfillment_center.controller.js <br />
     </details>
     <details>
       <summary>/middlewares</summary>
-      authJwt.js
-      index.js
-      verifySignUp.js
-      veryXAccess.js
+      authJwt.js <br />
+      index.js <br />
+      verifySignUp.js <br />
+      veryXAccess.js <br />
     </details>
     <details>
       <summary>/models</summary>
