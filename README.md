@@ -9,10 +9,10 @@ This is a public repository for cryptocashfast
 > /backend
 > <br />
 > /app
->> /config
+>>/config
 >>> auth.config.js <br />
 >>> db.config.js 
->><br />
+>>
 >>/controllers
 >>
 >>>auth.controller.js<br />
@@ -27,25 +27,30 @@ This is a public repository for cryptocashfast
 >>>tremendous.controller.js <br />
 >>>user.controller.js<br />
 >>>fulfillment_center.controller.js <br />
-    
- /middlewares
-      authJwt.js 
-      index.js 
-      verifySignUp.js 
-      veryXAccess.js 
-    
-       /models
-       /routes
-       /utils
-       /node_modules
- <p>
-   .env<br />
-  .gcloudignore<br />
-  app.yaml<br />
-  gcloudignore<br />
-  package-lock.json<br />
-  package.json<br />
-  server.js<br />
- </p>
+>>
+>>/middlewares
+>>
+>>>authJwt.js  <br />
+>>>index.js  <br />
+>>>verifySignUp.js  <br />
+>>>veryXAccess.js  <br />
+>>
+>>/models
+>>
+>>/routes
+>>
+>>/utils
+>>
+>>/node_modules
+>>
+> .env<br />
+> .gcloudignore<br />
+> app.yaml<br />
+> gcloudignore<br />
+> package-lock.json<br />
+> package.json<br />
+> server.js<br />
 
-/frontend
+<br />
+
+> /frontend
