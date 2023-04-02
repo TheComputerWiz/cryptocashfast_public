@@ -3,6 +3,8 @@ This is a public repository for cryptocashfast
 
 ### Currenct directory
 *Please click on the **Foldable text** in order to display the nested texted*
+<br />
+ℹ I am not finished yet ℹ
 <details>
  <summary>/backend</summary>
   <details>
